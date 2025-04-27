@@ -128,8 +128,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Vikas Yadav**
-- GitHub: [@vikasyadav01234](https://github.com/vikasyadav01234)
+**Sravani Chennareddy**
+- GitHub: (https://github.com/Sravani-bit)
 
 ## Support
 
@@ -137,4 +137,4 @@ If you found this project helpful, please give it a ⭐️!
 
 ---
 
-Created by [Vikas Yadav](https://github.com/vikasyadav01234) - 2024
+Created by [Sravani Chennareddy](https://github.com/Sravani-bit) - 2025
