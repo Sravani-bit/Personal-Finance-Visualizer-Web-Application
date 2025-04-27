@@ -211,10 +211,10 @@ export default function Home() {
           {/* Profile Image */}
           <div>
           <img
-  src="https://cdn-icons-png.flaticon.com/512/4322/4322991.png"
-  alt="Waving Cartoon"
-  className="w-16 h-16 rounded-full shadow-md object-cover bg-white p-1"
-/>
+              src="https://cdn-icons-png.flaticon.com/512/4322/4322991.png"
+              alt="Waving Cartoon"
+              className="w-16 h-16 rounded-full shadow-md object-cover bg-white p-1"
+          />
           </div>
         </div>
   
