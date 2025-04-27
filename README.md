@@ -2,7 +2,7 @@
 
 A modern web application for tracking personal finances, built with Next.js, MongoDB, and Tailwind CSS.
 
-![Personal Finance Tracker](https://raw.githubusercontent.com/vikasyadav01234/personal-finance-tracker/main/public/screenshot.png)
+![Personal Finance Tracker]
 
 ## Features
 
@@ -41,7 +41,7 @@ A modern web application for tracking personal finances, built with Next.js, Mon
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikasyadav01234/personal-finance-tracker.git
+git clone https://github.com/Sravani-bit/Personal-Finance-Visualizer-Web-Application.git
 cd personal-finance-tracker
 ```
 
@@ -130,11 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sravani Chennareddy**
 - GitHub: (https://github.com/Sravani-bit)
-
-## Support
-
-If you found this project helpful, please give it a ⭐️!
-
 ---
 
 Created by [Sravani Chennareddy](https://github.com/Sravani-bit) - 2025
