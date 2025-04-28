@@ -63,6 +63,7 @@ export default function BudgetForm({ onSubmit, initialData = null }) {
         <input
           type="number"
           name="amount"
+          min="0"
           value={formData.amount}
           onChange={handleChange}
           required

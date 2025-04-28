@@ -32,9 +32,15 @@ export default function TransactionForm({ onSubmit, initialData = null }) {
         <input
           id="amount"
           type="number"
-          step="0.01"
+          step="1"
+          min="0"
           className="mt-1 block w-full rounded-md border border-gray-300 px-3 py-2 text-gray-900 focus:border-blue-500 focus:outline-none focus:ring-blue-500 sm:text-sm"
-          {...register('amount', { required: 'Amount is required' })}
+          {...register('amount', {
+            required: 'Amount is required',
+            validate: {
+              nonNegative: value => value >= 0 || 'Amount cannot be negative',
+            }
+          })}
         />
         {errors.amount && (
           <p className="mt-1 text-sm text-red-600">{errors.amount.message}</p>
